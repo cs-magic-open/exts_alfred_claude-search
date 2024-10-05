@@ -1,0 +1,458 @@
+-- inputting: hhh
+pasted
+finished
+-- inputting: 系列 复数
+-- inputting: git change submodule name but not folder name
+pasted
+finished
+-- inputting: (base) ➜  my-website git:(main) git pull                    
+fatal: refusing to merge unrelated histories
+
+pasted
+finished
+-- inputting: git rm node_modules in all the ref log, since lfs complains
+pasted
+finished
+-- inputting: jetbrains 有专门写 shell script 的 IDE 吗
+pasted
+finished
+-- inputting: write a sh script, to traverse all the sub script files ends with .sh
+pasted
+finished
+-- inputting: 改成当前文件的相对位置source_sh_files ./inject-envs
+pasted
+finished
+-- inputting: 我是一名博主，正在给别人推荐一款软件产品，请给我推荐 bgm
+pasted
+finished
+-- inputting: notion how to move one
+pasted
+finished
+-- inputting: notion how to move one's doc into another account (both logged in)
+pasted
+finished
+-- inputting: notion how to delete a teamspace
+-- inputting: lisp中的点是什么意思
+pasted
+finished
+-- inputting: querySelector one element has .sticky and .bottom-0
+pasted
+finished
+-- inputting: canvas2png with styles
+pasted
+finished
+-- inputting: js 截图丢失跨域的 iframe 内容
+pasted
+finished
+-- inputting: 在 iframe 中可以 dom 转 png 下载吗
+pasted
+finished
+-- inputting: js cleanest way to format today as xxxx-xx-xx
+pasted
+finished
+-- inputting: ➜  codebase-ts git:(main) ✗ yarn workspace @cs-magic/common build
+src/schema/card.detail.ts:3:40 - error TS2339: Property 'validator' does not exist on type 'typeof Prisma'.
+
+3 export const cardDetailSchema = Prisma.validator<Prisma.CardDefaultArgs>()({})
+
+pasted
+finished
+-- inputting: How to add existing local git repo as a submodule to parent directory repo?
+pasted
+finished
+-- inputting: chrome extension click and popup choices
+pasted
+finished
+-- inputting: document observe specific element util exists
+pasted
+finished
+-- inputting: git submodule add
+pasted
+finished
+-- inputting: github 的 release 页面怎么用，我在开发一个基于 webpack的谷歌插件
+pasted
+finished
+-- inputting: webstorm 快捷键 弹出当前位置的自动补全候选
+pasted
+finished
+-- inputting: mac 设置切换输入法快捷键
+pasted
+finished
+-- inputting: git remove some of local tags
+pasted
+finished
+-- inputting: chrome extension manifest load hashed file
+pasted
+finished
+-- inputting: tailwindcss hover dark
+pasted
+finished
+-- inputting: git submodule change remote url
+pasted
+finished
+-- inputting: 群晖可否把文件按路径映射共享
+pasted
+finished
+-- inputting: arc 浏览器的复制页面按钮，可否进行 hook，比如点击后复制生成标题+网址的形式
+-- inputting: git add local sub repo as a submodule
+pasted
+finished
+-- inputting: nextjs masonry layout shortest columns
+pasted
+finished
+-- inputting: mui imagelist responsive
+pasted
+finished
+-- inputting: svg define variable
+pasted
+finished
+-- inputting: svg element to svg blob
+pasted
+finished
+-- inputting: grid set children max width, and center
+pasted
+finished
+-- inputting: react 实现，点击一个按钮后，某个 grid 容器内增加一个 block，这样原先的独立的 block 左移，新增的 block 出现，为这个加上一个往左挤压的动画效果
+pasted
+finished
+-- inputting: obsidian 在标题回车后，为什么光标会自动跳到最后，怎样才能让它跳到文档开头
+pasted
+finished
+-- inputting: 解释一下 Terminus
+pasted
+finished
+-- inputting: yarn 4+ upgrade specific package
+pasted
+finished
+-- inputting: langchain proxy
+pasted
+finished
+-- inputting: 什么是 github codebase，里面跑的localhost:3000的服务在哪里可以打开
+-- inputting: 什么是 github codebase，里面跑的localhost:3000的服务在哪里可以打开
+pasted
+finished
+-- inputting: 什么叫结对编程
+pasted
+finished
+-- inputting: Error: Module not found: Can't resolve 'http'
+
+https://nextjs.org/docs/messages/module-not-found
+
+Import trace for requested module:
+./node_modules/agent-base/dist/index.js
+./node_modules/http-proxy-agent/dist/index.js
+pasted
+finished
+-- inputting: use proxy in nextjs edge environment
+pasted
+finished
+-- inputting: useChat handleInputChange with useForm
+pasted
+finished
+-- inputting: 修改这段代码                 <FormField
+                  control={form.control}
+                  name="name"
+                  render={({ field }) => (
+                    <FormItem>
+                      <FormLabel>Your Name</FormLabel>
+                      <FormControl>
+                        <Input placeholder="XX 小公举" {...field} />
+                      </FormControl>
+                      <FormDescription>This is your name.</FormDescription>
+                      <FormMessage />
+                    </FormItem>
+                  )}
+                /> 使之能同步给 {input, handleInputChange} = useChat 的两个属性
+pasted
+finished
+-- inputting: ➜  codebase-ts-test git:(main) ✗ git add . && git stash && git pull -f
+No local changes to save
+Updating 75414000..ea370c63
+error: Your local changes to the following files would be overwritten by merge:
+        app_totem-gpt
+Please commit your changes or stash them before you merge.
+Aborting
+ 怎样强制我的submodule 也能pull 成功
+pasted
+finished
+-- inputting: 2024/09/22 19:23:52 ➜  codebase git:(431591c8) ✗ git checkout main                                                                                      │in:81:12)
+.yarn/install-state.gz: needs merge                                                                                                                     │    at node:internal/main/run_main_module:23:47 {
+error: you need to resolve your current index first  
+pasted
+finished
+-- inputting: 2024/09/22 19:43:46 ➜  codebase git:(main) ✗ yarn workspace wechaty-puppet build
+command not found: tspc
+2024/09/22 19:43:57 ➜  codebase git:(main) ✗ which tspc
+./node_modules/.bin/tspc why！
+pasted
+finished
+-- inputting: 2024/09/22 19:43:46 ➜  codebase git:(main) ✗ yarn workspace wechaty-puppet build
+command not found: tspc
+2024/09/22 19:43:57 ➜  codebase git:(main) ✗ which tspc
+./node_modules/.bin/tspc why！
+pasted
+finished
+-- inputting: why yarn won't register current node_modules/.bin into path
+pasted
+finished
+-- inputting: can git submodule refers to sibling directory ?
+pasted
+finished
+-- inputting: config ELECTRON_MIRROR="https://npmmirror.com/mirrors/electron/" in yarn4+
+pasted
+finished
+-- inputting: 我想在我的.envn文件里，使用一个列表存储json list，然后使用一个变量选定 key，最后再用一个变量存储选中后的json，再赋值给另一个变量，这是可以实现的吗
+pasted
+finished
+-- inputting: 应该加入git吗 .yarn/install-state.gz
+pasted
+finished
+-- inputting: Ubuntu install go
+pasted
+finished
+-- inputting: git submodule clone show progress
+pasted
+finished
+-- inputting: main元素一般放什么
+pasted
+finished
+-- inputting: git pull with submodules
+pasted
+finished
+-- inputting: poetry extend pyproject.toml
+pasted
+finished
+-- inputting: fastapi text response without quotes
+pasted
+finished
+-- inputting: fastapi return change server (uvicorn --> cloudflare)
+pasted
+finished
+-- inputting: fastapi response captilized headers
+pasted
+finished
+-- inputting: wget using proxy
+pasted
+finished
+-- inputting: headers report-to 和 nel 参数是干什么用的
+pasted
+finished
+-- inputting: fastapi drop content-length
+-- inputting: how to drop content-length in response in fastapi\
+pasted
+finished
+-- inputting: 把下面代码改成express版本：         target_url = "https://let.bnsubservdom.com/api/v1/client/subscribe?token=d0a451156361a39cfd8219490f1f65ce"
+        res = api.get(target_url)
+        response = Response(res.text, media_type='text/plain; charset=utf-8', headers=res.headers)
+        return response
+pasted
+finished
+-- inputting: lodash capitalize each word joined by "-"
+pasted
+finished
+-- inputting:              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/ubuntu/@cs-magic/coding/codebase-py/apps/uni-api/main.py", line 16, in <module>
+    from src.router import root_router
+  File "/home/ubuntu/@cs-magic/coding/codebase-py/apps/uni-api/src/router/__init__.py", line 7, in <module>
+    from src.router.vpn import vpn_router
+  File "/home/ubuntu/@cs-magic/coding/codebase-py/apps/uni-api/src/router/vpn.py", line 16, in <module>
+    request: Request, provider: "foosber" | "biznet" = "biznet"):
+                                ~~~~~~~~~~^~~~~~~~~~
+-- inputting: why cd into submodule, the git is not on main branch
+-- inputting: streamText iterate chars
+pasted
+finished
+-- inputting: 为什么 apple store 每个应用都要输入密码，即便刚刚已经输入过？
+pasted
+finished
+-- inputting: brochure one pager 区别
+pasted
+finished
+-- inputting: keynote 显示网格与对齐网格
+pasted
+finished
+-- inputting: appWithTranslation
+pasted
+finished
+-- inputting: can typescript plugins extended?
+pasted
+finished
+-- inputting: 公司要成立监事吗？责任、义务、手续是啥
+pasted
+finished
+-- inputting: 东升大厦
+pasted
+finished
+-- inputting: nextjs error: Import trace for requested module:
+../../assets/branding/cs-magic/cs-magic_logo_1280.svg
+ ⨯ ../../assets/branding/cs-magic/cs-magic_logo_1280.svg
+Module parse failed: Unexpected token (1:0)
+You may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders
+> <svg id="图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg"
+|      fill="currentColor"
+|      viewBox="0 0 1280 1280"
+
+
+pasted
+finished
+-- inputting: warp 按右键选中补全，可否修改成 Tab 键
+pasted
+finished
+-- inputting: ➜  app_home git:(main) ✗ yarn create fumadocs-app
+Internal Error: ENOENT: no such file or directory, open '/private/var/folders/l0/hmnsy2bs28z4zr0vyfldlzy00000gn/T/xfs-f0d56204/dlx-74854/.env'
+Error: ENOENT: no such file or directory, open '/private/var/folders/l0/hmnsy2bs28z4zr0vyfldlzy00000gn/T/xfs-f0d56204/dlx-74854/.env'
+
+pasted
+finished
+-- inputting:  ⨯ ../../assets/styles/main.css:276:9
+Syntax error: /Users/mark/coding/codebase-ts/assets/styles/main.css The `from-primary` class does not exist. If `from-primary` is a custom class, make sure it is defined within a `@layer` directive.
+
+  274 | 
+  275 |     .linear {
+> 276 |         @apply bg-gradient-to-r from-primary to-secondary;
+      |         ^
+  277 |     }
+  278 | 
+   automatically enabled Fast Refresh for 1 custom loader
+
+pasted
+finished
+-- inputting: git change main to head
+pasted
+finished
+-- inputting:   ▲ Next.js 14.2.7
+  - Experiments (use with caution):
+    · turbo
+
+   Creating an optimized production build ...
+[MDX] initialized map file
+Failed to compile.
+
+./content/docs/bp/index.mdx?collection=docs&hash=1f6bdb4ca1902e1116f178436a2432db3c32e973f175a17c551eba27edcb8dac
+TypeError: index.mdx:TypeError: unsupported file type: undefined (file: undefined)
+    at lookup (/home/ubuntu/@cs-magic/coding/codebase/node_modules/image-size/dist/index.js:42:11)
+    at imageSize (/home/ubuntu/@cs-magic/coding/codebase/node_modules/image-size/dist/index.js:98:16)
+    at getImageSize (file:///home/ubuntu/@cs-magic/coding/codebase/node_modules/fumadocs-core/dist/mdx-plugins/index.js:435:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Promise.all (index 0)
+    at async file:///home/ubuntu/@cs-magic/coding/codebase/node_modules/fumadocs-core/dist/mdx-plugins/index.js:402:5
+
+Import trace for requested module:
+./content/docs/bp/index.mdx?collection=docs&hash=1f6bdb4ca1902e1116f178436a2432db3c32e973f175a17c551eba27edcb8dac
+./.source/index.js
+./app/source.ts
+./app/docs/layout.tsx
+
+
+> Build failed because of webpack errors
+2024/09/27 05:11:55 ➜  codebase git:(main) ✗ cat app_home/home/content/docs/bp/index.mdx
+---
+title: For Our Potential Partners & Investors
+---
+
+![cs-magic_bp.png](https://cs-magic.cn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F2024-09-one-pager.21587992.jpg&w=1920&q=75)%
+
+pasted
+finished
+-- inputting: numbers 支持浏览器自动化爬虫吗？
+pasted
+finished
+-- inputting: document query selector which has classname which begins with xxx
+pasted
+finished
+-- inputting: selenium 默认浏览器 python
+pasted
+finished
+-- inputting: 详细介绍一下赋格曲
+pasted
+finished
+-- inputting: tailwindcss duration with arbitrary value not work
+pasted
+finished
+-- inputting: 我使用monorepo，自己维护很多个 library，都是typescript，基于tsc编译成 js，然后在其他 app 里导入，请问有没有办法能让依赖的 libraries 也支持热重启？
+pasted
+finished
+-- inputting: `option + left` lets caret goto word start in tmux
+pasted
+finished
+-- inputting: webstorm filename dashed style
+pasted
+finished
+-- inputting: git change the remote url of submodule via commands
+pasted
+finished
+-- inputting: ➜  codebase-ts git:(main) ✗ git submodule init 
+fatal: No url found for submodule path 'app_eval-ai' in .gitmodules
+
+pasted
+finished
+-- inputting: yarn monorepo recursive packages
+pasted
+finished
+-- inputting: yarn workspace declare all subdirectories with multiple levels
+pasted
+finished
+-- inputting: (base) ➜  codebase-ts git:(main) ✗ yarn workspace @cs-magic/assistant-web run-s build start
+/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:126304
+              throw e;
+              ^
+
+TypeError: tsInstance.getOriginalSourceFile is not a function
+    at /Users/mark/coding/codebase-ts/node_modules/typescript-transform-paths/dist/transformer.js:111:48
+    at tspWrappedFactory (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:226:31)
+    at transformSourceFileOrBundle (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:95534:49)
+    at transformation (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:118781:14)
+    at transformRoot (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:118804:71)
+    at transformNodes (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:118789:70)
+    at emitJsFileOrBundle (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:119334:24)
+    at emitSourceFileOrBundle (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:119292:5)
+    at forEachEmittedFile (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:119056:24)
+    at emitFiles (/Users/mark/coding/codebase-ts/node_modules/typescript/lib/tsc.js:119274:3)
+
+Node.js v18.19.0
+ERROR: "build" exited with 1.
+
+pasted
+finished
+-- inputting: css 光标效果 静止
+pasted
+finished
+-- inputting: 在package.json 中怎样才能并行运行两个script，并且有很好的输出显示
+pasted
+finished
+-- inputting: can `tsc --watch` not flush terminal ?
+pasted
+finished
+-- inputting: what's the best auth framework for nextjs, and supports wechat login and china sms
+pasted
+finished
+-- inputting: 时手推 Variational EM 有多难
+pasted
+finished
+-- inputting: how to exclude all the dist folders in webstorm
+pasted
+finished
+-- inputting: 为什么我的webstorm里的 dist文件夹都变成灰色的了，导致无法检索，注意我的Directories配置的Exclude files是空的，否则会显示成黄色
+pasted
+finished
+-- inputting: 类似john lennon曲风以 so 开头的歌曲叫啥
+pasted
+finished
+-- inputting: xx
+pasted
+finished
+-- inputting: xx
+pasted
+finished
+-- inputting: aa
+pasted
+finished
