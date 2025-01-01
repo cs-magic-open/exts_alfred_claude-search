@@ -1,4 +1,6 @@
-# Alfred Extension - Claude Search (V0.4.0)
+# Alfred Extension - Claude Search [ARCHIVED]
+
+> **Note**: This project is now archived as of January 2025. The functionality provided by this Alfred extension is now natively available in macOS through the Claude app's shortcut (Option + Space). We recommend using the native shortcut instead.
 
 ## Effect
 
@@ -30,5 +32,3 @@ Step 4. install alfred workflow
 Step 5. config environment variable
 
 ![img_1.png](assets/config-environment-variables.png)
-
-
